@@ -15,6 +15,6 @@ public class SpringBootDockerIntApplication {
 
 @GetMapping("/msg")
 public String getMessage() {
-	return "Hello world ..............";
+	return "Hello world Springboot..............";
 }
 }
